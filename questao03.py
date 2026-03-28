@@ -1,0 +1,5 @@
+print ("***cardapio***")
+print ("1.pizza")
+print ("2.hamburguer")
+print ("suco")
+print ("***bom apetite***")
